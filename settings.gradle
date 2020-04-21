@@ -1,1 +1,4 @@
 rootProject.name = 'spring-pet-clinic'
+include 'spring-pet-clinic-data'
+include 'spring-pet-clinic-web'
+
